@@ -6,3 +6,5 @@ with reference to [this](https://github.com/glittergallery/GlitterGallery/issues
 This is an UI/UX implementation for GlitterGallery project.
 
 ![IMAGE](mockups/Glitter.png)
+![IMAGE](mockups/Glitter_3.png)
+![IMAGE](mockups/Glitter_2.png)
